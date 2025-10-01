@@ -1,0 +1,5 @@
+Issue: Application not loading.
+Solution: Restart the app and check your internet connection.
+
+Issue: Cannot log in.
+Solution: Reset your password or contact support if the issue persists.
