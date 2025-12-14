@@ -19,4 +19,4 @@ sqlalchemy
 langchain-huggingface
 sentence-transformers
 langchain-experimental
-wikipedia
+wikipediaS
